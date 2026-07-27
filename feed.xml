@@ -10,7 +10,7 @@
     <itunes:summary>Comincia la giornata con la rassegna stampa del Post.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
-    <atom:link href="https://www.ilpost.it/podcasts/morning/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://scumaci74.github.io/mf-7c29-feed/feed.xml" />
     <image>
       <url>https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png</url>
       <title>Morning</title>
