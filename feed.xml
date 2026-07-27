@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Morning</title>
+    <link>https://www.ilpost.it/podcasts/morning/</link>
+    <description>Comincia la giornata con la rassegna stampa del Post.</description>
+    <language>it-IT</language>
+    <copyright>Contenuti © Il Post. Feed personale non ufficiale.</copyright>
+    <itunes:author>Nicola Ghittoni</itunes:author>
+    <itunes:summary>Comincia la giornata con la rassegna stampa del Post.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News" />
+    <atom:link href="https://www.ilpost.it/podcasts/morning/" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png</url>
+      <title>Morning</title>
+      <link>https://www.ilpost.it/podcasts/morning/</link>
+    </image>
+    <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    <item>
+      <title>Ep. 1258 – I test dei giovani, le lezioni degli adulti e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1258-i-test-dei-giovani-le-lezioni-degli-adulti-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3642206</guid>
+      <pubDate>Mon, 27 Jul 2026 08:19:26 +0200</pubDate>
+      <description>Oggi su Morning: attacco al cantiere Tav in Val di Susa, la procura di Torino procederà per devastazione; è stato ucciso il sospettato per l’attentato al Pride di Berlino, stava seguendo un percorso di “deradicalizzazione” dopo una condanna per aver pianificato un attentato terroristico; secondo il New York Times gli Stati Uniti hanno sospeso gli attacchi contro l’Iran perché iniziano a scarseggiare le armi di difesa antiaerea; per attirare più matricole molte università statali italiane hanno innalzato il tetto per l’esenzione dal pagamento delle tasse; Pirlo si dice amareggiato per le polemiche sui suoi rapporti con una società di scommesse russa, se dovesse saltare la sua nomina ad allenatore della Nazionale potrebbe dimettersi anche il direttore tecnico Maldini</description>
+      <itunes:summary>Oggi su Morning: attacco al cantiere Tav in Val di Susa, la procura di Torino procederà per devastazione; è stato ucciso il sospettato per l’attentato al Pride di Berlino, stava seguendo un percorso di “deradicalizzazione” dopo una condanna per aver pianificato un attentato terroristico; secondo il New York Times gli Stati Uniti hanno sospeso gli attacchi contro l’Iran perché iniziano a scarseggiare le armi di difesa antiaerea; per attirare più matricole molte università statali italiane hanno innalzato il tetto per l’esenzione dal pagamento delle tasse; Pirlo si dice amareggiato per le polemiche sui suoi rapporti con una società di scommesse russa, se dovesse saltare la sua nomina ad allenatore della Nazionale potrebbe dimettersi anche il direttore tecnico Maldini</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>29:21</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/27/1785133159-27lugliomorning_mixdown.mp3" length="42321663" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Morning Weekend – Cicogne che finiranno nei nostri portafogli, e altre storie</title>
+      <link>https://www.ilpost.it/podcasts/morning/morning-weekend-cicogne-che-finiranno-nei-nostri-portafogli-e-altre-storie</link>
+      <guid isPermaLink="false">ilpost-morning-3641075</guid>
+      <pubDate>Sat, 25 Jul 2026 08:00:57 +0200</pubDate>
+      <description>– Gli inclusivi festeggiamenti per la vittoria della Spagna ai Mondiali (Suddeutsche Zeitung)
+
+– Come si usa l’AI dentro a un grande giornale europeo (El País)</description>
+      <itunes:summary>– Gli inclusivi festeggiamenti per la vittoria della Spagna ai Mondiali (Suddeutsche Zeitung)
+
+– Come si usa l’AI dentro a un grande giornale europeo (El País)</itunes:summary>
+      <itunes:author>Luca Misculin</itunes:author>
+      <itunes:duration>22:29</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/24/1784907824-m_w_260725_v3_-14lufs.mp3" length="32382482" type="audio/mpeg" />
+      <itunes:image href="https://static-prod.cdnilpost.com/wp-content/uploads/2023/07/14/1689376026-1686345845-MW-500x500-1.jpeg" />
+    </item>
+    <item>
+      <title>Ep. 1257 – Una cosa facile ed efficace e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1257-una-cosa-facile-ed-efficace-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3640431</guid>
+      <pubDate>Fri, 24 Jul 2026 08:09:15 +0200</pubDate>
+      <description>Oggi su Morning: il gruppo armato yemenita degli Houthi ha attaccato due petroliere saudite nel mar Rosso; il prezzo del gasolio in Italia si avvicina ai massimi di sempre ma il governo non sembra avere le risorse per contrastare i rincari; il Consiglio dei ministri ha approvato un disegno di legge che punta a rendere più facile processare i minori; con l’approvazione di un emendamento al decreto sport le piscine pubbliche hanno una settimana di tempo per uniformarsi alle normative sulla sicurezza; un gruppo di milionari britannici ha scritto al premier Burnham per chiedere di far pagare più tasse alle persone più ricche; Nanni Moretti torna alla Mostra del cinema di Venezia con un film in concorso dopo 37 anni</description>
+      <itunes:summary>Oggi su Morning: il gruppo armato yemenita degli Houthi ha attaccato due petroliere saudite nel mar Rosso; il prezzo del gasolio in Italia si avvicina ai massimi di sempre ma il governo non sembra avere le risorse per contrastare i rincari; il Consiglio dei ministri ha approvato un disegno di legge che punta a rendere più facile processare i minori; con l’approvazione di un emendamento al decreto sport le piscine pubbliche hanno una settimana di tempo per uniformarsi alle normative sulla sicurezza; un gruppo di milionari britannici ha scritto al premier Burnham per chiedere di far pagare più tasse alle persone più ricche; Nanni Moretti torna alla Mostra del cinema di Venezia con un film in concorso dopo 37 anni</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>25:29</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/24/1784873350-24lugliomorning_mixdown.mp3" length="36736266" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Ep. 1256 – Non esistono intelligenze artificiali ribelli e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1256-non-esistono-intelligenze-artificiali-ribelli-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3639647</guid>
+      <pubDate>Thu, 23 Jul 2026 08:21:05 +0200</pubDate>
+      <description>Oggi su Morning: le indagini sulla morte di Abderrahim Fakir evidenziano la necessità di protocolli operativi chiari e di una maggiore formazione di agenti e soccorritori; l’accordo sul nucleare tra Stati Uniti e Arabia Saudita rischia di complicare ancora di più le relazioni con Israele e la guerra contro l’Iran; il caso del chatbot di Open AI che ha lanciato un attacco hacker contro un’altra piattaforma è anche un test interessante su come i giornali raccontano le vicende legate alle intelligenze artificiali</description>
+      <itunes:summary>Oggi su Morning: le indagini sulla morte di Abderrahim Fakir evidenziano la necessità di protocolli operativi chiari e di una maggiore formazione di agenti e soccorritori; l’accordo sul nucleare tra Stati Uniti e Arabia Saudita rischia di complicare ancora di più le relazioni con Israele e la guerra contro l’Iran; il caso del chatbot di Open AI che ha lanciato un attacco hacker contro un’altra piattaforma è anche un test interessante su come i giornali raccontano le vicende legate alle intelligenze artificiali</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>29:09</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/23/1784789776-OKOk23lugliomorning_mixdown.mp3" length="42016319" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Ep. 1255 – Il treno dei redditi è partito senza di noi e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1255-il-treno-dei-redditi-e-partito-senza-di-noi-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3638776</guid>
+      <pubDate>Wed, 22 Jul 2026 08:03:04 +0200</pubDate>
+      <description>Oggi su Morning: negli ultimi 36 anni i redditi reali dei lavoratori dipendenti in Italia sono diminuiti e sono molto aumentate le disuguaglianze tra la fascia più ricca e quella peggio retribuita; la procura di Bologna sta cercando di capire se con una comunicazione diversa al 118 Abderrahim Fakir si sarebbe potuto salvare; il tribunale di Torino ha condannato il titolare e un dirigente di un’azienda di logistica per il suicidio di un dipendente; le forze armate israeliane hanno confermato che parte del confine temporaneo tra Israele e la Striscia di Gaza è stata trasformata in una barriera; il presidente ucraino Zelensky ha licenziato il capo delle forze armate; la Francia è il primo paese europeo a imporre un divieto di accesso ai social per le persone minori di 15 anni</description>
+      <itunes:summary>Oggi su Morning: negli ultimi 36 anni i redditi reali dei lavoratori dipendenti in Italia sono diminuiti e sono molto aumentate le disuguaglianze tra la fascia più ricca e quella peggio retribuita; la procura di Bologna sta cercando di capire se con una comunicazione diversa al 118 Abderrahim Fakir si sarebbe potuto salvare; il tribunale di Torino ha condannato il titolare e un dirigente di un’azienda di logistica per il suicidio di un dipendente; le forze armate israeliane hanno confermato che parte del confine temporaneo tra Israele e la Striscia di Gaza è stata trasformata in una barriera; il presidente ucraino Zelensky ha licenziato il capo delle forze armate; la Francia è il primo paese europeo a imporre un divieto di accesso ai social per le persone minori di 15 anni</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>26:29</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/22/1784700178-22lugliomorning_mixdown.mp3" length="38194525" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Ep. 1254 – La rivolta dei ragazzini e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1254-la-rivolta-dei-ragazzini-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3637935</guid>
+      <pubDate>Tue, 21 Jul 2026 08:03:18 +0200</pubDate>
+      <description>Oggi su Morning: agli agenti che hanno immobilizzato l’uomo morto a Bologna è stato applicato il cosiddetto “scudo penale” previsto da un decreto sulla sicurezza approvato lo scorso febbraio; il prezzo del diesel al distributore in Italia è tornato ai massimi da aprile; i ribelli yemeniti Houthi annunciano il blocco dello stretto di Bab el Mandeb; la nazionale italiana di Powerchair football non ha potuto partecipare a un torneo in Scozia perché la compagnia aerea EasyJet non aveva spazio per tutte le carrozzine; la “regina degli scacchi” Judit Polgár non sarà la nuova presidente dell’Ungheria</description>
+      <itunes:summary>Oggi su Morning: agli agenti che hanno immobilizzato l’uomo morto a Bologna è stato applicato il cosiddetto “scudo penale” previsto da un decreto sulla sicurezza approvato lo scorso febbraio; il prezzo del diesel al distributore in Italia è tornato ai massimi da aprile; i ribelli yemeniti Houthi annunciano il blocco dello stretto di Bab el Mandeb; la nazionale italiana di Powerchair football non ha potuto partecipare a un torneo in Scozia perché la compagnia aerea EasyJet non aveva spazio per tutte le carrozzine; la “regina degli scacchi” Judit Polgár non sarà la nuova presidente dell’Ungheria</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>29:51</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/21/1784613792-21lugliomorning_mixdown.mp3" length="43021954" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Ep. 1253 – La memoria dei telefonini, la legittima difesa e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1253-la-memoria-dei-telefonini-la-legittima-difesa-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3636686</guid>
+      <pubDate>Mon, 20 Jul 2026 08:04:09 +0200</pubDate>
+      <description>Oggi su Morning: a Bologna un uomo è morto mentre veniva immobilizzato dalla polizia; la Lega annuncia una proposta di legge per cambiare le norme del codice penale sulla legittima difesa e per far scarcerare il gioielliere Roggero senza bisogno di chiedere la grazia al presidente della Repubblica; a dieci anni dall’introduzione del reato di omicidio stradale le statistiche dicono che non è servito a far diminuire le morti per incidenti; la Spagna ha vinto i Mondiali di calcio</description>
+      <itunes:summary>Oggi su Morning: a Bologna un uomo è morto mentre veniva immobilizzato dalla polizia; la Lega annuncia una proposta di legge per cambiare le norme del codice penale sulla legittima difesa e per far scarcerare il gioielliere Roggero senza bisogno di chiedere la grazia al presidente della Repubblica; a dieci anni dall’introduzione del reato di omicidio stradale le statistiche dicono che non è servito a far diminuire le morti per incidenti; la Spagna ha vinto i Mondiali di calcio</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>31:48</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/20/1784529832-Ok20lugliomorning_mixdown.mp3" length="45835518" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Morning Weekend – Tre milioni di persone contro 23, e altre storie</title>
+      <link>https://www.ilpost.it/podcasts/morning/morning-weekend-tre-milioni-di-persone-contro-23-e-altre-storie</link>
+      <guid isPermaLink="false">ilpost-morning-3634956</guid>
+      <pubDate>Sat, 18 Jul 2026 08:00:13 +0200</pubDate>
+      <description>– Il futuro visto da Mont-Saint-Michel (Suddeutsche Zeitung)
+
+– L’Odissea di Nolan vista dai greci (Kathimerini)
+
+– Non ci sono più le tv pubbliche di una volta (The Economist)
+
+– In Armenia stanno costruendo una statua gigantesca di Cristo, contro la volontà della Chiesa (Suddeutsche Zeitung)</description>
+      <itunes:summary>– Il futuro visto da Mont-Saint-Michel (Suddeutsche Zeitung)
+
+– L’Odissea di Nolan vista dai greci (Kathimerini)
+
+– Non ci sono più le tv pubbliche di una volta (The Economist)
+
+– In Armenia stanno costruendo una statua gigantesca di Cristo, contro la volontà della Chiesa (Suddeutsche Zeitung)</itunes:summary>
+      <itunes:author>Luca Misculin</itunes:author>
+      <itunes:duration>25:17</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/17/1784303693-m_w_260718_v1_-14lufs.mp3" length="36410166" type="audio/mpeg" />
+      <itunes:image href="https://static-prod.cdnilpost.com/wp-content/uploads/2023/07/14/1689376026-1686345845-MW-500x500-1.jpeg" />
+    </item>
+    <item>
+      <title>Ep. 1252 – Un’idea sgraziata della giustizia e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1252-unidea-sgraziata-della-giustizia-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3634228</guid>
+      <pubDate>Fri, 17 Jul 2026 07:57:13 +0200</pubDate>
+      <description>Oggi su Morning: la sentenza di primo grado per il crollo del ponte Morandi a Genova riapre il dibattito sulle responsabilità degli amministratori delegati; Nordio annuncia l’avvio di un’istruttoria per la concessione della grazia al gioielliere condannato per aver ucciso due rapinatori, Mattarella convoca il ministro per spiegargli che l’iniziativa per gli atti di clemenza spetta al presidente della Repubblica; gli ucraini sono tornati in piazza per protestare contro la decisione di Zelensky di rimuovere Fedorov, “l’uomo dei droni”, dalla carica di ministro della Difesa; la Corte penale internazionale dell’Aja giudicherà Al Buti per i crimini della milizia libica Rada, la stessa del generale Almasri</description>
+      <itunes:summary>Oggi su Morning: la sentenza di primo grado per il crollo del ponte Morandi a Genova riapre il dibattito sulle responsabilità degli amministratori delegati; Nordio annuncia l’avvio di un’istruttoria per la concessione della grazia al gioielliere condannato per aver ucciso due rapinatori, Mattarella convoca il ministro per spiegargli che l’iniziativa per gli atti di clemenza spetta al presidente della Repubblica; gli ucraini sono tornati in piazza per protestare contro la decisione di Zelensky di rimuovere Fedorov, “l’uomo dei droni”, dalla carica di ministro della Difesa; la Corte penale internazionale dell’Aja giudicherà Al Buti per i crimini della milizia libica Rada, la stessa del generale Almasri</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>27:58</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/17/1784267826-17lugliomorning_mixdown.mp3" length="40326744" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Ep. 1251 – L’italiano, gli italiani e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1251-litaliano-gli-italiani-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3633181</guid>
+      <pubDate>Thu, 16 Jul 2026 08:07:42 +0200</pubDate>
+      <description>Oggi su Morning: comunque vada il voto finale alla Camera sulla legge elettorale, la presidente del Consiglio Meloni sarebbe tentata dalle elezioni anticipate; la Cassazione ha confermato la condanna del gioielliere che nel 2021 uccise due rapinatori; in Francia è stata approvata una legge sul suicidio assistito; alla vigilia della sentenza definitiva del processo sul crollo del ponte Morandi la lettera di scuse dell’attuale amministratore delegato di Autostrade per l’Italia fa infuriare i familiari delle vittime; l’Argentina ha battuto l’Inghilterra e sfiderà la Spagna nella finale dei Mondiali di calcio; è uscito Odissea di Nolan, parliamone</description>
+      <itunes:summary>Oggi su Morning: comunque vada il voto finale alla Camera sulla legge elettorale, la presidente del Consiglio Meloni sarebbe tentata dalle elezioni anticipate; la Cassazione ha confermato la condanna del gioielliere che nel 2021 uccise due rapinatori; in Francia è stata approvata una legge sul suicidio assistito; alla vigilia della sentenza definitiva del processo sul crollo del ponte Morandi la lettera di scuse dell’attuale amministratore delegato di Autostrade per l’Italia fa infuriare i familiari delle vittime; l’Argentina ha battuto l’Inghilterra e sfiderà la Spagna nella finale dei Mondiali di calcio; è uscito Odissea di Nolan, parliamone</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>25:51</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/16/1784183102-Ok16lugliomorning_mixdown.mp3" length="37282819" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Ep. 1250 – La diplomazia del merluzzo e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1250-la-diplomazia-del-merluzzo-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3632076</guid>
+      <pubDate>Wed, 15 Jul 2026 08:02:31 +0200</pubDate>
+      <description>Oggi su Morning: il governo è finito in minoranza alla Camera in un voto sulla legge elettorale; se il nuovo pacchetto di sanzioni dell’Unione Europea alla Russia sarà depotenziato è anche a causa dei bastoncini di pesce; è stata assolta una donna che aveva ucciso la madre malata, di cui prendeva cura: la Corte d’Assise di Arezzo le ha riconosciuto uno “stress da assistenza”; oggi i ciclofattorini scioperano per chiedere di essere retribuiti anche nelle ore di stop per il caldo eccessivo</description>
+      <itunes:summary>Oggi su Morning: il governo è finito in minoranza alla Camera in un voto sulla legge elettorale; se il nuovo pacchetto di sanzioni dell’Unione Europea alla Russia sarà depotenziato è anche a causa dei bastoncini di pesce; è stata assolta una donna che aveva ucciso la madre malata, di cui prendeva cura: la Corte d’Assise di Arezzo le ha riconosciuto uno “stress da assistenza”; oggi i ciclofattorini scioperano per chiedere di essere retribuiti anche nelle ore di stop per il caldo eccessivo</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>28:46</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/15/1784095344-15lugliomorning_mixdown.mp3" length="41471534" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Ep. 1249 – Tutta colpa di un refuso e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1249-tutta-colpa-di-un-refuso-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3630725</guid>
+      <pubDate>Tue, 14 Jul 2026 08:01:04 +0200</pubDate>
+      <description>Oggi su Morning: Trump ha annunciato un pedaggio degli Stati Uniti per le navi di passaggio nello stretto di Hormuz ma non ha spiegato come funzionerà; un’inchiesta ricostruisce l’operazione dell’intelligence israeliana per reclutare l’ex presidente iraniano Ahmadinejad; oggi alla Camera si vota l’emendamento sulle preferenze alla legge elettorale voluto da Fratelli d’Italia, lo scrutinio segreto potrebbe evidenziare divisioni nella maggioranza; a mezzanotte il territorio britannico di Gibilterra entra nell’area Schengen; sono aperte le iscrizioni al nuovo semestre aperto delle facoltà di Medicina e ci sono alcune novità, frutto degli errori del primo tentativo</description>
+      <itunes:summary>Oggi su Morning: Trump ha annunciato un pedaggio degli Stati Uniti per le navi di passaggio nello stretto di Hormuz ma non ha spiegato come funzionerà; un’inchiesta ricostruisce l’operazione dell’intelligence israeliana per reclutare l’ex presidente iraniano Ahmadinejad; oggi alla Camera si vota l’emendamento sulle preferenze alla legge elettorale voluto da Fratelli d’Italia, lo scrutinio segreto potrebbe evidenziare divisioni nella maggioranza; a mezzanotte il territorio britannico di Gibilterra entra nell’area Schengen; sono aperte le iscrizioni al nuovo semestre aperto delle facoltà di Medicina e ci sono alcune novità, frutto degli errori del primo tentativo</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>29:45</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/14/1784008857-14lugliomorning_mixdown.mp3" length="42885281" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Ep. 1248 – Un parabrezza rotto e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1248-un-parabrezza-rotto-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3629883</guid>
+      <pubDate>Mon, 13 Jul 2026 08:15:23 +0200</pubDate>
+      <description>Oggi su Morning: secondo Trump lo stretto di Hormuz è aperto, secondo i Guardiani della rivoluzione è chiuso, l’unica certezza sono i nuovi attacchi degli Stati Uniti e dell’Iran; l’inviato del Post Daniele Raineri e il fotografo Gabriele Micalizzi sono tra i giornalisti aggrediti da un gruppo di coloni israeliani a Sinjil, in Cisgiordania; il caso di una donna uccisa dall’ex compagno a Loreto evidenzia le difficoltà di alcune procure nel contestare il nuovo reato di femminicidio; il sindaco del comune ligure con la più bassa percentuale di spiagge libere ha deciso di sfidare i gestori degli stabilimenti balneari; la vittoria di Sinner a Wimbledon è la sua nuova impresa eccezionale che ormai ci sembra essere normale</description>
+      <itunes:summary>Oggi su Morning: secondo Trump lo stretto di Hormuz è aperto, secondo i Guardiani della rivoluzione è chiuso, l’unica certezza sono i nuovi attacchi degli Stati Uniti e dell’Iran; l’inviato del Post Daniele Raineri e il fotografo Gabriele Micalizzi sono tra i giornalisti aggrediti da un gruppo di coloni israeliani a Sinjil, in Cisgiordania; il caso di una donna uccisa dall’ex compagno a Loreto evidenzia le difficoltà di alcune procure nel contestare il nuovo reato di femminicidio; il sindaco del comune ligure con la più bassa percentuale di spiagge libere ha deciso di sfidare i gestori degli stabilimenti balneari; la vittoria di Sinner a Wimbledon è la sua nuova impresa eccezionale che ormai ci sembra essere normale</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>27:33</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/13/1783933602-morning_260713_v2.mp3" length="26459776" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Morning Weekend – La rinascita del tè georgiano, e altre storie</title>
+      <link>https://www.ilpost.it/podcasts/morning/morning-weekend-la-rinascita-del-te-georgiano-e-altre-storie</link>
+      <guid isPermaLink="false">ilpost-morning-3628648</guid>
+      <pubDate>Sat, 11 Jul 2026 08:00:00 +0200</pubDate>
+      <description>– Jordan Bardella ci è rimasto male (Le Monde)
+
+– Gli incendi degli ultimi anni hanno devastato la provincia di Atene (Kathimerini)
+
+– Partorire a Kherson (El País)
+
+– La rinascita del tè georgiano (The Guardian)</description>
+      <itunes:summary>– Jordan Bardella ci è rimasto male (Le Monde)
+
+– Gli incendi degli ultimi anni hanno devastato la provincia di Atene (Kathimerini)
+
+– Partorire a Kherson (El País)
+
+– La rinascita del tè georgiano (The Guardian)</itunes:summary>
+      <itunes:author>Luca Misculin</itunes:author>
+      <itunes:duration>27:04</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/10/1783704895-m_w_260711_v2_-14lufs.mp3" length="38986156" type="audio/mpeg" />
+      <itunes:image href="https://static-prod.cdnilpost.com/wp-content/uploads/2023/07/14/1689376026-1686345845-MW-500x500-1.jpeg" />
+    </item>
+    <item>
+      <title>Ep. 1247 – La pistola di Erdogan, la lezione di Seveso e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1247-la-pistola-di-erdogan-la-lezione-di-seveso-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3627911</guid>
+      <pubDate>Fri, 10 Jul 2026 07:52:21 +0200</pubDate>
+      <description>Oggi su Morning: l’Iran ha di nuovo chiuso il transito nello stretto di Hormuz dopo gli ultimi attacchi degli Stati Uniti, che hanno colpito un ponte strategico per i commerci con la Cina; l’Italia ha espulso due addetti militari dell’ambasciata di Russia; un operaio è morto per un’esplosione in un’azienda che produce armi in provincia di Chieti, è il settimo lavoratore in sei anni a morire in quella fabbrica; sono passati 50 anni dal disastro di Seveso, l’incidente industriale che ha cambiato la cultura europea della sostenibilità ambientale</description>
+      <itunes:summary>Oggi su Morning: l’Iran ha di nuovo chiuso il transito nello stretto di Hormuz dopo gli ultimi attacchi degli Stati Uniti, che hanno colpito un ponte strategico per i commerci con la Cina; l’Italia ha espulso due addetti militari dell’ambasciata di Russia; un operaio è morto per un’esplosione in un’azienda che produce armi in provincia di Chieti, è il settimo lavoratore in sei anni a morire in quella fabbrica; sono passati 50 anni dal disastro di Seveso, l’incidente industriale che ha cambiato la cultura europea della sostenibilità ambientale</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>29:06</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/10/1783662733-10lugliomorning_mixdown.mp3" length="41958039" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Ep. 1246 – Acqua per i data center, vino in aceto e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1246-acqua-per-i-data-center-vino-in-aceto-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3626869</guid>
+      <pubDate>Thu, 09 Jul 2026 08:12:43 +0200</pubDate>
+      <description>Oggi su Morning: Trump ha annunciato che concederà all’Ucraina la licenza per produrre i missili intercettori Patriot; l’addetto militare all’ambasciata di Russia indagato dalla procura di Roma per spionaggio sarà espulso dall’Italia; il titolare dell’azienda agricola dove lavorava il bracciante indiano Satnam Singh è stato condannato in primo grado per omicidio volontario; il politico e giornalista Mario Adinolfi è agli arresti domiciliari per un’indagine che lo vede accusato di truffa ed evasione fiscale; nel mondo si beve sempre meno vino e le cantine stanno studiando soluzioni creative per smaltire la produzione in eccedenza</description>
+      <itunes:summary>Oggi su Morning: Trump ha annunciato che concederà all’Ucraina la licenza per produrre i missili intercettori Patriot; l’addetto militare all’ambasciata di Russia indagato dalla procura di Roma per spionaggio sarà espulso dall’Italia; il titolare dell’azienda agricola dove lavorava il bracciante indiano Satnam Singh è stato condannato in primo grado per omicidio volontario; il politico e giornalista Mario Adinolfi è agli arresti domiciliari per un’indagine che lo vede accusato di truffa ed evasione fiscale; nel mondo si beve sempre meno vino e le cantine stanno studiando soluzioni creative per smaltire la produzione in eccedenza</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>25:41</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/09/1783581727-Ok9lugliomorning_mixdown.mp3" length="37043956" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Ep. 1245 – Ronzii, ruggiti e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1245-ronzii-ruggiti-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3626009</guid>
+      <pubDate>Wed, 08 Jul 2026 08:06:53 +0200</pubDate>
+      <description>Oggi su Morning: gli Stati Uniti sono tornati a bombardare l’Iran; il vertice NATO di Ankara si è aperto con il tentativo del segretario generale Rutte di compiacere Trump elencando l’aumento di spese per acquistare e produrre armi; Marine Le Pen ha annunciato che si candiderà alle elezioni presidenziali francesi del 2027; con la riforma dei concorsi universitari in Italia è stata cancellata l’Abilitazione scientifica nazionale; un professore spiega come funzionano gli algoritmi che determinano i prezzi dei biglietti aerei e avverte che i nostri tentativi di ingannarli sono inefficaci; la Provincia autonoma di Trento ha autorizzato in via sperimentale la caccia al cinghiale con arco e frecce</description>
+      <itunes:summary>Oggi su Morning: gli Stati Uniti sono tornati a bombardare l’Iran; il vertice NATO di Ankara si è aperto con il tentativo del segretario generale Rutte di compiacere Trump elencando l’aumento di spese per acquistare e produrre armi; Marine Le Pen ha annunciato che si candiderà alle elezioni presidenziali francesi del 2027; con la riforma dei concorsi universitari in Italia è stata cancellata l’Abilitazione scientifica nazionale; un professore spiega come funzionano gli algoritmi che determinano i prezzi dei biglietti aerei e avverte che i nostri tentativi di ingannarli sono inefficaci; la Provincia autonoma di Trento ha autorizzato in via sperimentale la caccia al cinghiale con arco e frecce</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>29:19</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/08/1783492008-ok8lugliomorning_mixdown.mp3" length="42260086" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Ep. 1244 – La guerra fatta da un cortile e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1244-la-guerra-fatta-da-un-cortile-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3624922</guid>
+      <pubDate>Tue, 07 Jul 2026 08:08:31 +0200</pubDate>
+      <description>Oggi su Morning: al vertice Nato di Ankara il presidente ucraino Zelensky torna a chiedere armi per intercettare i missili balistici russi; nonostante la forzatura regolamentare voluta da Trump per far giocare l’attaccante più in forma, gli Stati Uniti hanno perso contro il Belgio e sono stati eliminati dai Mondiali di calcio; per la prima volta un governo israeliano ha deciso all’unanimità di non obbedire a una decisione della Corte Suprema; alla fine la fiera “Più libri più liberi” ammatterà anche le case editrici che non hanno firmato il documento di adesione ai valori antifascisti della Costituzione</description>
+      <itunes:summary>Oggi su Morning: al vertice Nato di Ankara il presidente ucraino Zelensky torna a chiedere armi per intercettare i missili balistici russi; nonostante la forzatura regolamentare voluta da Trump per far giocare l’attaccante più in forma, gli Stati Uniti hanno perso contro il Belgio e sono stati eliminati dai Mondiali di calcio; per la prima volta un governo israeliano ha deciso all’unanimità di non obbedire a una decisione della Corte Suprema; alla fine la fiera “Più libri più liberi” ammatterà anche le case editrici che non hanno firmato il documento di adesione ai valori antifascisti della Costituzione</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>28:00</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/07/1783404505-7lugliomorning_mixdown.mp3" length="40356837" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Ep. 1243 – L’asticella dello choc e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1243-lasticella-dello-choc-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3623994</guid>
+      <pubDate>Mon, 06 Jul 2026 08:29:55 +0200</pubDate>
+      <description>Oggi su Morning: il nuovo post sui social di Trump su Meloni ha molto turbato i giornali italiani; la Corte europea per i diritti dell’uomo ha condannato l’Italia a risarcire una donna per non aver gestito in modo adeguato le sue denunce di violenza domestica e sessuale da parte dell’ex compagno; sono iniziati i lavori per sostituire un cavalcavia ferroviario a Firenze, sono previsti disagi e rallentamenti fino a venerdì; come ogni estate è ricominciata la disfida tra i gestori degli stabilimenti balneari e i clienti che si portano il cibo da casa per mangiarlo in spiaggia; la gloriosa storia di un trattore nato da uno sciopero</description>
+      <itunes:summary>Oggi su Morning: il nuovo post sui social di Trump su Meloni ha molto turbato i giornali italiani; la Corte europea per i diritti dell’uomo ha condannato l’Italia a risarcire una donna per non aver gestito in modo adeguato le sue denunce di violenza domestica e sessuale da parte dell’ex compagno; sono iniziati i lavori per sostituire un cavalcavia ferroviario a Firenze, sono previsti disagi e rallentamenti fino a venerdì; come ogni estate è ricominciata la disfida tra i gestori degli stabilimenti balneari e i clienti che si portano il cibo da casa per mangiarlo in spiaggia; la gloriosa storia di un trattore nato da uno sciopero</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>31:54</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/06/1783320438-Ok6lugliomorning_mixdown.mp3" length="45988491" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
+      <title>Morning Weekend – Finestrini, finestrone e altre storie</title>
+      <link>https://www.ilpost.it/podcasts/morning/morning-weekend-finestrini-finestrone-e-altre-storie</link>
+      <guid isPermaLink="false">ilpost-morning-3622464</guid>
+      <pubDate>Sat, 04 Jul 2026 08:00:02 +0200</pubDate>
+      <description>– I lavori che già oggi l’AI sta sottraendo alle persone giovani (NRC)
+
+– Berlino non è attrezzata per gestire le ondate di calore (The Economist)
+
+– Manuale di sopravvivenza per i treni notturni (Süddeutsche Zeitung)</description>
+      <itunes:summary>– I lavori che già oggi l’AI sta sottraendo alle persone giovani (NRC)
+
+– Berlino non è attrezzata per gestire le ondate di calore (The Economist)
+
+– Manuale di sopravvivenza per i treni notturni (Süddeutsche Zeitung)</itunes:summary>
+      <itunes:author>Luca Misculin</itunes:author>
+      <itunes:duration>26:46</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/03/1783095049-m_w_260704_v1_-14lufs-1.mp3" length="38553590" type="audio/mpeg" />
+      <itunes:image href="https://static-prod.cdnilpost.com/wp-content/uploads/2023/07/14/1689376026-1686345845-MW-500x500-1.jpeg" />
+    </item>
+  </channel>
+</rss>
