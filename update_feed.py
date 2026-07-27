@@ -169,9 +169,10 @@ def write_feed(payload: dict) -> None:
         channel,
         f"{{{NS_ATOM}}}link",
         {
-            "href": os.getenv("SELF_URL", page_url),
-            "rel": "self",
-            "type": "application/rss+xml",
+            "href": os.getenv(
+    "SELF_URL",
+    "https://scumaci74.github.io/mf-7c29-feed/feed.xml",
+),
         },
     )
 
