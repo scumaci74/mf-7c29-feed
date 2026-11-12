@@ -18,6 +18,18 @@
     </image>
     <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     <item>
+      <title>Ep. 1326 – Il dilemma dei presidi e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1326-il-dilemma-dei-presidi-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3730986</guid>
+      <pubDate>Thu, 12 Nov 2026 08:04:09 +0100</pubDate>
+      <description>Oggi su Morning: presidi e forze dell’ordine hanno reagito in modo diverso agli allarmi bomba nelle scuole italiane perché manca un protocollo nazionale per gestire queste situazioni; a Milano alcune famiglie si sono accampate per protesta in un cantiere bloccato dalle inchieste su presunti abusi edilizi; si complica la situazione dell’amministratore delegato di Nvidia Jensen Huang, la scoperta della relazione con una dirigente dell’azienda potrebbe portare alla sua rimozione; cosa c’entrano la carne e le proteine con la storica vittoria del candidato Democratico Scott Colom per il seggio del Mississippi al Senato</description>
+      <itunes:summary>Oggi su Morning: presidi e forze dell’ordine hanno reagito in modo diverso agli allarmi bomba nelle scuole italiane perché manca un protocollo nazionale per gestire queste situazioni; a Milano alcune famiglie si sono accampate per protesta in un cantiere bloccato dalle inchieste su presunti abusi edilizi; si complica la situazione dell’amministratore delegato di Nvidia Jensen Huang, la scoperta della relazione con una dirigente dell’azienda potrebbe portare alla sua rimozione; cosa c’entrano la carne e le proteine con la storica vittoria del candidato Democratico Scott Colom per il seggio del Mississippi al Senato</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>23:05</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/11/12/1794467042-12novembremorning_mixdown.mp3" length="33276191" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
       <title>Ep. 1325 – Tra le tende allagate di Gaza e le altre storie di oggi</title>
       <link>https://www.ilpost.it/podcasts/morning/ep-1325-tra-le-tende-allagate-di-gaza-e-le-altre-storie-di-oggi</link>
       <guid isPermaLink="false">ilpost-morning-3730058</guid>
@@ -1332,26 +1344,6 @@ Ne parleremo in due dirette video sul Post e sul canale YouTube di Da Costa a Co
       <itunes:duration>31:54</itunes:duration>
       <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/06/1783320438-Ok6lugliomorning_mixdown.mp3" length="45988491" type="audio/mpeg" />
       <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
-    </item>
-    <item>
-      <title>Morning Weekend – Finestrini, finestrone e altre storie</title>
-      <link>https://www.ilpost.it/podcasts/morning/morning-weekend-finestrini-finestrone-e-altre-storie</link>
-      <guid isPermaLink="false">ilpost-morning-3622464</guid>
-      <pubDate>Sat, 04 Jul 2026 08:00:02 +0200</pubDate>
-      <description>– I lavori che già oggi l’AI sta sottraendo alle persone giovani (NRC)
-
-– Berlino non è attrezzata per gestire le ondate di calore (The Economist)
-
-– Manuale di sopravvivenza per i treni notturni (Süddeutsche Zeitung)</description>
-      <itunes:summary>– I lavori che già oggi l’AI sta sottraendo alle persone giovani (NRC)
-
-– Berlino non è attrezzata per gestire le ondate di calore (The Economist)
-
-– Manuale di sopravvivenza per i treni notturni (Süddeutsche Zeitung)</itunes:summary>
-      <itunes:author>Luca Misculin</itunes:author>
-      <itunes:duration>26:46</itunes:duration>
-      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/03/1783095049-m_w_260704_v1_-14lufs-1.mp3" length="38553590" type="audio/mpeg" />
-      <itunes:image href="https://static-prod.cdnilpost.com/wp-content/uploads/2023/07/14/1689376026-1686345845-MW-500x500-1.jpeg" />
     </item>
   </channel>
 </rss>
