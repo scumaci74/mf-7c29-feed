@@ -18,6 +18,22 @@
     </image>
     <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     <item>
+      <title>Morning Weekend – Quanto costerebbe riunificare l’Irlanda, e altre storie</title>
+      <link>https://www.ilpost.it/podcasts/morning/morning-weekend-quanto-costerebbe-riunificare-lirlanda-e-altre-storie</link>
+      <guid isPermaLink="false">ilpost-morning-3732773</guid>
+      <pubDate>Sat, 14 Nov 2026 08:00:44 +0100</pubDate>
+      <description>– Come arriva l’Europa alla COP31 (Le Monde)
+
+– Un data center diverso da tutti gli altri, in Svezia (Guardian)</description>
+      <itunes:summary>– Come arriva l’Europa alla COP31 (Le Monde)
+
+– Un data center diverso da tutti gli altri, in Svezia (Guardian)</itunes:summary>
+      <itunes:author>Luca Misculin</itunes:author>
+      <itunes:duration>28:57</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/11/13/1794612113-mw_261114_v3_-14LUFS.mp3" length="27788928" type="audio/mpeg" />
+      <itunes:image href="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/24/1792833555-MW-500x500-1.jpg" />
+    </item>
+    <item>
       <title>Ep. 1327 – Le barzellette di Putin e le altre storie di oggi</title>
       <link>https://www.ilpost.it/podcasts/morning/ep-1327-le-barzellette-di-putin-e-le-altre-storie-di-oggi</link>
       <guid isPermaLink="false">ilpost-morning-3731994</guid>
@@ -1331,18 +1347,6 @@ Ne parleremo in due dirette video sul Post e sul canale YouTube di Da Costa a Co
       <itunes:author>Nicola Ghittoni</itunes:author>
       <itunes:duration>29:19</itunes:duration>
       <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/08/1783492008-ok8lugliomorning_mixdown.mp3" length="42260086" type="audio/mpeg" />
-      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
-    </item>
-    <item>
-      <title>Ep. 1244 – La guerra fatta da un cortile e le altre storie di oggi</title>
-      <link>https://www.ilpost.it/podcasts/morning/ep-1244-la-guerra-fatta-da-un-cortile-e-le-altre-storie-di-oggi</link>
-      <guid isPermaLink="false">ilpost-morning-3624922</guid>
-      <pubDate>Tue, 07 Jul 2026 08:08:31 +0200</pubDate>
-      <description>Oggi su Morning: al vertice Nato di Ankara il presidente ucraino Zelensky torna a chiedere armi per intercettare i missili balistici russi; nonostante la forzatura regolamentare voluta da Trump per far giocare l’attaccante più in forma, gli Stati Uniti hanno perso contro il Belgio e sono stati eliminati dai Mondiali di calcio; per la prima volta un governo israeliano ha deciso all’unanimità di non obbedire a una decisione della Corte Suprema; alla fine la fiera “Più libri più liberi” ammatterà anche le case editrici che non hanno firmato il documento di adesione ai valori antifascisti della Costituzione</description>
-      <itunes:summary>Oggi su Morning: al vertice Nato di Ankara il presidente ucraino Zelensky torna a chiedere armi per intercettare i missili balistici russi; nonostante la forzatura regolamentare voluta da Trump per far giocare l’attaccante più in forma, gli Stati Uniti hanno perso contro il Belgio e sono stati eliminati dai Mondiali di calcio; per la prima volta un governo israeliano ha deciso all’unanimità di non obbedire a una decisione della Corte Suprema; alla fine la fiera “Più libri più liberi” ammatterà anche le case editrici che non hanno firmato il documento di adesione ai valori antifascisti della Costituzione</itunes:summary>
-      <itunes:author>Nicola Ghittoni</itunes:author>
-      <itunes:duration>28:00</itunes:duration>
-      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/07/1783404505-7lugliomorning_mixdown.mp3" length="40356837" type="audio/mpeg" />
       <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     </item>
   </channel>
