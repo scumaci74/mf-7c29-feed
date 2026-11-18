@@ -18,6 +18,18 @@
     </image>
     <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     <item>
+      <title>Ep. 1330 – Il ritorno dei condoni e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1330-il-ritorno-dei-condoni-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3735889</guid>
+      <pubDate>Wed, 18 Nov 2026 08:18:51 +0100</pubDate>
+      <description>Oggi su Morning: alla fine sono stati presentati 6.600 emendamenti alla legge di bilancio, circa 2.000 arrivano da partiti della maggioranza, 12 riguardano condoni edilizi; la Camera ha approvato in modo definitivo la legge sull’antisemitismo, non introduce nuovi reati ma secondo le opposizioni limita la libertà di criticare le azioni del governo israeliano; il primo ministro incaricato Eisenkot è riuscito a far eleggere il suo candidato alla presidenza del parlamento israeliano grazie ai voti dei deputati arabi; una partita di tennis raccontata con l’audiodescrizione per le persone cieche</description>
+      <itunes:summary>Oggi su Morning: alla fine sono stati presentati 6.600 emendamenti alla legge di bilancio, circa 2.000 arrivano da partiti della maggioranza, 12 riguardano condoni edilizi; la Camera ha approvato in modo definitivo la legge sull’antisemitismo, non introduce nuovi reati ma secondo le opposizioni limita la libertà di criticare le azioni del governo israeliano; il primo ministro incaricato Eisenkot è riuscito a far eleggere il suo candidato alla presidenza del parlamento israeliano grazie ai voti dei deputati arabi; una partita di tennis raccontata con l’audiodescrizione per le persone cieche</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>28:10</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/11/18/1794986325-18novembremorning_mixdown.mp3" length="40606986" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
       <title>Ep. 1329 – Le cavie umane della dissuasione e le altre storie di oggi</title>
       <link>https://www.ilpost.it/podcasts/morning/ep-1329-le-cavie-umane-della-dissuasione-e-le-altre-storie-di-oggi</link>
       <guid isPermaLink="false">ilpost-morning-3734720</guid>
@@ -1336,18 +1348,6 @@ Ne parleremo in due dirette video sul Post e sul canale YouTube di Da Costa a Co
       <itunes:duration>27:04</itunes:duration>
       <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/10/1783704895-m_w_260711_v2_-14lufs.mp3" length="38986156" type="audio/mpeg" />
       <itunes:image href="https://static-prod.cdnilpost.com/wp-content/uploads/2023/07/14/1689376026-1686345845-MW-500x500-1.jpeg" />
-    </item>
-    <item>
-      <title>Ep. 1247 – La pistola di Erdogan, la lezione di Seveso e le altre storie di oggi</title>
-      <link>https://www.ilpost.it/podcasts/morning/ep-1247-la-pistola-di-erdogan-la-lezione-di-seveso-e-le-altre-storie-di-oggi</link>
-      <guid isPermaLink="false">ilpost-morning-3627911</guid>
-      <pubDate>Fri, 10 Jul 2026 07:52:21 +0200</pubDate>
-      <description>Oggi su Morning: l’Iran ha di nuovo chiuso il transito nello stretto di Hormuz dopo gli ultimi attacchi degli Stati Uniti, che hanno colpito un ponte strategico per i commerci con la Cina; l’Italia ha espulso due addetti militari dell’ambasciata di Russia; un operaio è morto per un’esplosione in un’azienda che produce armi in provincia di Chieti, è il settimo lavoratore in sei anni a morire in quella fabbrica; sono passati 50 anni dal disastro di Seveso, l’incidente industriale che ha cambiato la cultura europea della sostenibilità ambientale</description>
-      <itunes:summary>Oggi su Morning: l’Iran ha di nuovo chiuso il transito nello stretto di Hormuz dopo gli ultimi attacchi degli Stati Uniti, che hanno colpito un ponte strategico per i commerci con la Cina; l’Italia ha espulso due addetti militari dell’ambasciata di Russia; un operaio è morto per un’esplosione in un’azienda che produce armi in provincia di Chieti, è il settimo lavoratore in sei anni a morire in quella fabbrica; sono passati 50 anni dal disastro di Seveso, l’incidente industriale che ha cambiato la cultura europea della sostenibilità ambientale</itunes:summary>
-      <itunes:author>Nicola Ghittoni</itunes:author>
-      <itunes:duration>29:06</itunes:duration>
-      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/10/1783662733-10lugliomorning_mixdown.mp3" length="41958039" type="audio/mpeg" />
-      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     </item>
   </channel>
 </rss>
