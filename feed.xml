@@ -18,6 +18,18 @@
     </image>
     <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     <item>
+      <title>Ep. 1331 – Cosa si nasconde in un abbraccio e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1331-cosa-si-nasconde-in-un-abbraccio-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3736901</guid>
+      <pubDate>Thu, 19 Nov 2026 08:16:11 +0100</pubDate>
+      <description>Oggi su Morning: è il giorno dell’incontro tra Trump, Putin e Xi Jinping e no, non è una “nuova Yalta”; l’esercito israeliano ha fatto un’operazione di terra all’interno della Striscia di Gaza per la prima volta dopo il cessate il fuoco dell’ottobre del 2025; Fratelli d’Italia ripropone l’emendamento sui libri scolastici in versione digitale scontati al 50 per cento, dietro all’opposizione di Forza Italia ci sono anche gli interessi della famiglia Berlusconi; la sonda Voyager 1 è arrivata nel punto più lontano dalla Terra mai raggiunto da un manufatto umano</description>
+      <itunes:summary>Oggi su Morning: è il giorno dell’incontro tra Trump, Putin e Xi Jinping e no, non è una “nuova Yalta”; l’esercito israeliano ha fatto un’operazione di terra all’interno della Striscia di Gaza per la prima volta dopo il cessate il fuoco dell’ottobre del 2025; Fratelli d’Italia ripropone l’emendamento sui libri scolastici in versione digitale scontati al 50 per cento, dietro all’opposizione di Forza Italia ci sono anche gli interessi della famiglia Berlusconi; la sonda Voyager 1 è arrivata nel punto più lontano dalla Terra mai raggiunto da un manufatto umano</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>23:43</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/11/19/1795072565-19novembremorning_mixdown.mp3" length="34206568" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
       <title>Ep. 1330 – Il ritorno dei condoni e le altre storie di oggi</title>
       <link>https://www.ilpost.it/podcasts/morning/ep-1330-il-ritorno-dei-condoni-e-le-altre-storie-di-oggi</link>
       <guid isPermaLink="false">ilpost-morning-3735889</guid>
@@ -1324,30 +1336,6 @@ Ne parleremo in due dirette video sul Post e sul canale YouTube di Da Costa a Co
       <itunes:duration>27:33</itunes:duration>
       <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/13/1783933602-morning_260713_v2.mp3" length="26459776" type="audio/mpeg" />
       <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
-    </item>
-    <item>
-      <title>Morning Weekend – La rinascita del tè georgiano, e altre storie</title>
-      <link>https://www.ilpost.it/podcasts/morning/morning-weekend-la-rinascita-del-te-georgiano-e-altre-storie</link>
-      <guid isPermaLink="false">ilpost-morning-3628648</guid>
-      <pubDate>Sat, 11 Jul 2026 08:00:00 +0200</pubDate>
-      <description>– Jordan Bardella ci è rimasto male (Le Monde)
-
-– Gli incendi degli ultimi anni hanno devastato la provincia di Atene (Kathimerini)
-
-– Partorire a Kherson (El País)
-
-– La rinascita del tè georgiano (The Guardian)</description>
-      <itunes:summary>– Jordan Bardella ci è rimasto male (Le Monde)
-
-– Gli incendi degli ultimi anni hanno devastato la provincia di Atene (Kathimerini)
-
-– Partorire a Kherson (El País)
-
-– La rinascita del tè georgiano (The Guardian)</itunes:summary>
-      <itunes:author>Luca Misculin</itunes:author>
-      <itunes:duration>27:04</itunes:duration>
-      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/10/1783704895-m_w_260711_v2_-14lufs.mp3" length="38986156" type="audio/mpeg" />
-      <itunes:image href="https://static-prod.cdnilpost.com/wp-content/uploads/2023/07/14/1689376026-1686345845-MW-500x500-1.jpeg" />
     </item>
   </channel>
 </rss>
