@@ -18,6 +18,26 @@
     </image>
     <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     <item>
+      <title>Morning Weekend – Quanti europei hanno comprato un pezzo di Anthropic, e altre storie</title>
+      <link>https://www.ilpost.it/podcasts/morning/morning-weekend-quanti-europei-hanno-comprato-un-pezzo-di-anthropic-e-altre-storie</link>
+      <guid isPermaLink="false">ilpost-morning-3739009</guid>
+      <pubDate>Sat, 21 Nov 2026 08:00:55 +0100</pubDate>
+      <description>– La gloriosa industria videoludica scozzese (BBC)
+
+– La morte, difficoltosa e pacifica insieme, di María Luisa Herrera (El País)
+
+– Rimpianti di una donna che non ha mai praticato sport di squadra (Politiken)</description>
+      <itunes:summary>– La gloriosa industria videoludica scozzese (BBC)
+
+– La morte, difficoltosa e pacifica insieme, di María Luisa Herrera (El País)
+
+– Rimpianti di una donna che non ha mai praticato sport di squadra (Politiken)</itunes:summary>
+      <itunes:author>Luca Misculin</itunes:author>
+      <itunes:duration>25:28</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/11/20/1795200258-m_w_261121_v1_-14lufs.mp3" length="36669330" type="audio/mpeg" />
+      <itunes:image href="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/24/1792833555-MW-500x500-1.jpg" />
+    </item>
+    <item>
       <title>Ep. 1332 – Il genocidio dei rohingya e le altre storie di oggi</title>
       <link>https://www.ilpost.it/podcasts/morning/ep-1332-il-genocidio-dei-rohingya-e-le-altre-storie-di-oggi</link>
       <guid isPermaLink="false">ilpost-morning-3737984</guid>
@@ -1323,18 +1343,6 @@ Ne parleremo in due dirette video sul Post e sul canale YouTube di Da Costa a Co
       <itunes:author>Nicola Ghittoni</itunes:author>
       <itunes:duration>28:46</itunes:duration>
       <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/15/1784095344-15lugliomorning_mixdown.mp3" length="41471534" type="audio/mpeg" />
-      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
-    </item>
-    <item>
-      <title>Ep. 1249 – Tutta colpa di un refuso e le altre storie di oggi</title>
-      <link>https://www.ilpost.it/podcasts/morning/ep-1249-tutta-colpa-di-un-refuso-e-le-altre-storie-di-oggi</link>
-      <guid isPermaLink="false">ilpost-morning-3630725</guid>
-      <pubDate>Tue, 14 Jul 2026 08:01:04 +0200</pubDate>
-      <description>Oggi su Morning: Trump ha annunciato un pedaggio degli Stati Uniti per le navi di passaggio nello stretto di Hormuz ma non ha spiegato come funzionerà; un’inchiesta ricostruisce l’operazione dell’intelligence israeliana per reclutare l’ex presidente iraniano Ahmadinejad; oggi alla Camera si vota l’emendamento sulle preferenze alla legge elettorale voluto da Fratelli d’Italia, lo scrutinio segreto potrebbe evidenziare divisioni nella maggioranza; a mezzanotte il territorio britannico di Gibilterra entra nell’area Schengen; sono aperte le iscrizioni al nuovo semestre aperto delle facoltà di Medicina e ci sono alcune novità, frutto degli errori del primo tentativo</description>
-      <itunes:summary>Oggi su Morning: Trump ha annunciato un pedaggio degli Stati Uniti per le navi di passaggio nello stretto di Hormuz ma non ha spiegato come funzionerà; un’inchiesta ricostruisce l’operazione dell’intelligence israeliana per reclutare l’ex presidente iraniano Ahmadinejad; oggi alla Camera si vota l’emendamento sulle preferenze alla legge elettorale voluto da Fratelli d’Italia, lo scrutinio segreto potrebbe evidenziare divisioni nella maggioranza; a mezzanotte il territorio britannico di Gibilterra entra nell’area Schengen; sono aperte le iscrizioni al nuovo semestre aperto delle facoltà di Medicina e ci sono alcune novità, frutto degli errori del primo tentativo</itunes:summary>
-      <itunes:author>Nicola Ghittoni</itunes:author>
-      <itunes:duration>29:45</itunes:duration>
-      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/14/1784008857-14lugliomorning_mixdown.mp3" length="42885281" type="audio/mpeg" />
       <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     </item>
   </channel>
