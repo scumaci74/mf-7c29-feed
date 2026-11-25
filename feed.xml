@@ -18,6 +18,18 @@
     </image>
     <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     <item>
+      <title>Ep. 1335 – Settantaquattro frustate e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1335-settantaquattro-frustate-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3741929</guid>
+      <pubDate>Wed, 25 Nov 2026 08:07:13 +0100</pubDate>
+      <description>Oggi su Morning: sono state aperte le lettere lasciate da De Gennaro prima del suicidio, una contiene accuse contro il procuratore di Caltanissetta che indaga sui presunti depistaggi per la strage di via D’Amelio; da quando esiste il reato di femminicidio è più difficile contare i femminicidi; migliaia di musulmani di etnia rohingya stanno per essere rimpatriati dalla Malaysia nonostante il Myanmar sia stato appena condannato per il loro genocidio dalla Corte internazionale di giustizia</description>
+      <itunes:summary>Oggi su Morning: sono state aperte le lettere lasciate da De Gennaro prima del suicidio, una contiene accuse contro il procuratore di Caltanissetta che indaga sui presunti depistaggi per la strage di via D’Amelio; da quando esiste il reato di femminicidio è più difficile contare i femminicidi; migliaia di musulmani di etnia rohingya stanno per essere rimpatriati dalla Malaysia nonostante il Myanmar sia stato appena condannato per il loro genocidio dalla Corte internazionale di giustizia</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>24:38</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/11/25/1795590427-25novembremorning_mixdown.mp3" length="35511227" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
       <title>Ep. 1334 – La banca centrale dell’AI e le altre storie di oggi</title>
       <link>https://www.ilpost.it/podcasts/morning/ep-1334-la-banca-centrale-dellai-e-le-altre-storie-di-oggi</link>
       <guid isPermaLink="false">ilpost-morning-3741027</guid>
@@ -1332,18 +1344,6 @@ Ne parleremo in due dirette video sul Post e sul canale YouTube di Da Costa a Co
       <itunes:duration>25:17</itunes:duration>
       <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/17/1784303693-m_w_260718_v1_-14lufs.mp3" length="36410166" type="audio/mpeg" />
       <itunes:image href="https://static-prod.cdnilpost.com/wp-content/uploads/2023/07/14/1689376026-1686345845-MW-500x500-1.jpeg" />
-    </item>
-    <item>
-      <title>Ep. 1252 – Un’idea sgraziata della giustizia e le altre storie di oggi</title>
-      <link>https://www.ilpost.it/podcasts/morning/ep-1252-unidea-sgraziata-della-giustizia-e-le-altre-storie-di-oggi</link>
-      <guid isPermaLink="false">ilpost-morning-3634228</guid>
-      <pubDate>Fri, 17 Jul 2026 07:57:13 +0200</pubDate>
-      <description>Oggi su Morning: la sentenza di primo grado per il crollo del ponte Morandi a Genova riapre il dibattito sulle responsabilità degli amministratori delegati; Nordio annuncia l’avvio di un’istruttoria per la concessione della grazia al gioielliere condannato per aver ucciso due rapinatori, Mattarella convoca il ministro per spiegargli che l’iniziativa per gli atti di clemenza spetta al presidente della Repubblica; gli ucraini sono tornati in piazza per protestare contro la decisione di Zelensky di rimuovere Fedorov, “l’uomo dei droni”, dalla carica di ministro della Difesa; la Corte penale internazionale dell’Aja giudicherà Al Buti per i crimini della milizia libica Rada, la stessa del generale Almasri</description>
-      <itunes:summary>Oggi su Morning: la sentenza di primo grado per il crollo del ponte Morandi a Genova riapre il dibattito sulle responsabilità degli amministratori delegati; Nordio annuncia l’avvio di un’istruttoria per la concessione della grazia al gioielliere condannato per aver ucciso due rapinatori, Mattarella convoca il ministro per spiegargli che l’iniziativa per gli atti di clemenza spetta al presidente della Repubblica; gli ucraini sono tornati in piazza per protestare contro la decisione di Zelensky di rimuovere Fedorov, “l’uomo dei droni”, dalla carica di ministro della Difesa; la Corte penale internazionale dell’Aja giudicherà Al Buti per i crimini della milizia libica Rada, la stessa del generale Almasri</itunes:summary>
-      <itunes:author>Nicola Ghittoni</itunes:author>
-      <itunes:duration>27:58</itunes:duration>
-      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/17/1784267826-17lugliomorning_mixdown.mp3" length="40326744" type="audio/mpeg" />
-      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     </item>
   </channel>
 </rss>
