@@ -18,6 +18,18 @@
     </image>
     <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     <item>
+      <title>Ep. 1337 – I data center nello Spazio e le altre storie di oggi</title>
+      <link>https://www.ilpost.it/podcasts/morning/ep-1337-i-data-center-nello-spazio-e-le-altre-storie-di-oggi</link>
+      <guid isPermaLink="false">ilpost-morning-3744098</guid>
+      <pubDate>Fri, 27 Nov 2026 08:13:20 +0100</pubDate>
+      <description>Oggi su Morning: dopo la morte di due operai italiani che lavoravano alla manutenzione di un sistema antiaereo in Kuwait la società Rheinmetall ha annunciato il rimpatrio dei lavoratori impegnati nel paese; una donna è stata uccisa in casa sua nel pistoiese, il compagno si è suicidato gettandosi dallo stesso cavalcavia dove a settembre un’altra donna era stata uccisa dal suo ex; è sempre più difficile verificare cosa succede nei centri per i rimpatri in Albania; l’amministrazione Trump ha commissionato la costruzione di nuove carceri a due società su cui il presidente aveva investito subito dopo il suo insediamento; non sappiamo se sarà possibile far funzionare i data center nello Spazio, ma da ieri Elon Musk ha l’autorizzazione per mandarli in orbita</description>
+      <itunes:summary>Oggi su Morning: dopo la morte di due operai italiani che lavoravano alla manutenzione di un sistema antiaereo in Kuwait la società Rheinmetall ha annunciato il rimpatrio dei lavoratori impegnati nel paese; una donna è stata uccisa in casa sua nel pistoiese, il compagno si è suicidato gettandosi dallo stesso cavalcavia dove a settembre un’altra donna era stata uccisa dal suo ex; è sempre più difficile verificare cosa succede nei centri per i rimpatri in Albania; l’amministrazione Trump ha commissionato la costruzione di nuove carceri a due società su cui il presidente aveva investito subito dopo il suo insediamento; non sappiamo se sarà possibile far funzionare i data center nello Spazio, ma da ieri Elon Musk ha l’autorizzazione per mandarli in orbita</itunes:summary>
+      <itunes:author>Nicola Ghittoni</itunes:author>
+      <itunes:duration>27:22</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/11/27/1795763593-27novembremorning_mixdown.mp3" length="39448403" type="audio/mpeg" />
+      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
+    </item>
+    <item>
       <title>Ep. 1336 – Un piccolo passo contro gli abusi nella Chiesa e le altre storie di oggi</title>
       <link>https://www.ilpost.it/podcasts/morning/ep-1336-un-piccolo-passo-contro-gli-abusi-nella-chiesa-e-le-altre-storie-di-oggi</link>
       <guid isPermaLink="false">ilpost-morning-3743138</guid>
@@ -1319,18 +1331,6 @@ Ne parleremo in due dirette video sul Post e sul canale YouTube di Da Costa a Co
       <itunes:author>Nicola Ghittoni</itunes:author>
       <itunes:duration>29:51</itunes:duration>
       <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/21/1784613792-21lugliomorning_mixdown.mp3" length="43021954" type="audio/mpeg" />
-      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
-    </item>
-    <item>
-      <title>Ep. 1253 – La memoria dei telefonini, la legittima difesa e le altre storie di oggi</title>
-      <link>https://www.ilpost.it/podcasts/morning/ep-1253-la-memoria-dei-telefonini-la-legittima-difesa-e-le-altre-storie-di-oggi</link>
-      <guid isPermaLink="false">ilpost-morning-3636686</guid>
-      <pubDate>Mon, 20 Jul 2026 08:04:09 +0200</pubDate>
-      <description>Oggi su Morning: a Bologna un uomo è morto mentre veniva immobilizzato dalla polizia; la Lega annuncia una proposta di legge per cambiare le norme del codice penale sulla legittima difesa e per far scarcerare il gioielliere Roggero senza bisogno di chiedere la grazia al presidente della Repubblica; a dieci anni dall’introduzione del reato di omicidio stradale le statistiche dicono che non è servito a far diminuire le morti per incidenti; la Spagna ha vinto i Mondiali di calcio</description>
-      <itunes:summary>Oggi su Morning: a Bologna un uomo è morto mentre veniva immobilizzato dalla polizia; la Lega annuncia una proposta di legge per cambiare le norme del codice penale sulla legittima difesa e per far scarcerare il gioielliere Roggero senza bisogno di chiedere la grazia al presidente della Repubblica; a dieci anni dall’introduzione del reato di omicidio stradale le statistiche dicono che non è servito a far diminuire le morti per incidenti; la Spagna ha vinto i Mondiali di calcio</itunes:summary>
-      <itunes:author>Nicola Ghittoni</itunes:author>
-      <itunes:duration>31:48</itunes:duration>
-      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/20/1784529832-Ok20lugliomorning_mixdown.mp3" length="45835518" type="audio/mpeg" />
       <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     </item>
   </channel>
