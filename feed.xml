@@ -18,6 +18,26 @@
     </image>
     <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     <item>
+      <title>Morning Weekend – C’erano una volta William e Kate in India, e altre storie</title>
+      <link>https://www.ilpost.it/podcasts/morning/morning-weekend-cerano-una-volta-william-e-kate-in-india-e-altre-storie</link>
+      <guid isPermaLink="false">ilpost-morning-3744932</guid>
+      <pubDate>Sat, 28 Nov 2026 08:00:12 +0100</pubDate>
+      <description>– L’articolo di opinione del Times of India contro William e Kate (Times of India)
+
+– Il fallimento del Consiglio Europeo sul nuovo bilancio dell’Unione (Politico)
+
+– Non le fanno più, le case di una volta (El País)</description>
+      <itunes:summary>– L’articolo di opinione del Times of India contro William e Kate (Times of India)
+
+– Il fallimento del Consiglio Europeo sul nuovo bilancio dell’Unione (Politico)
+
+– Non le fanno più, le case di una volta (El País)</itunes:summary>
+      <itunes:author>Luca Misculin</itunes:author>
+      <itunes:duration>29:42</itunes:duration>
+      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/11/27/1795797196-m_w_261128_v1_-14lufs.mp3" length="42770952" type="audio/mpeg" />
+      <itunes:image href="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/24/1792833555-MW-500x500-1.jpg" />
+    </item>
+    <item>
       <title>Ep. 1337 – I data center nello Spazio e le altre storie di oggi</title>
       <link>https://www.ilpost.it/podcasts/morning/ep-1337-i-data-center-nello-spazio-e-le-altre-storie-di-oggi</link>
       <guid isPermaLink="false">ilpost-morning-3744098</guid>
@@ -1319,18 +1339,6 @@ Ne parleremo in due dirette video sul Post e sul canale YouTube di Da Costa a Co
       <itunes:author>Nicola Ghittoni</itunes:author>
       <itunes:duration>26:29</itunes:duration>
       <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/22/1784700178-22lugliomorning_mixdown.mp3" length="38194525" type="audio/mpeg" />
-      <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
-    </item>
-    <item>
-      <title>Ep. 1254 – La rivolta dei ragazzini e le altre storie di oggi</title>
-      <link>https://www.ilpost.it/podcasts/morning/ep-1254-la-rivolta-dei-ragazzini-e-le-altre-storie-di-oggi</link>
-      <guid isPermaLink="false">ilpost-morning-3637935</guid>
-      <pubDate>Tue, 21 Jul 2026 08:03:18 +0200</pubDate>
-      <description>Oggi su Morning: agli agenti che hanno immobilizzato l’uomo morto a Bologna è stato applicato il cosiddetto “scudo penale” previsto da un decreto sulla sicurezza approvato lo scorso febbraio; il prezzo del diesel al distributore in Italia è tornato ai massimi da aprile; i ribelli yemeniti Houthi annunciano il blocco dello stretto di Bab el Mandeb; la nazionale italiana di Powerchair football non ha potuto partecipare a un torneo in Scozia perché la compagnia aerea EasyJet non aveva spazio per tutte le carrozzine; la “regina degli scacchi” Judit Polgár non sarà la nuova presidente dell’Ungheria</description>
-      <itunes:summary>Oggi su Morning: agli agenti che hanno immobilizzato l’uomo morto a Bologna è stato applicato il cosiddetto “scudo penale” previsto da un decreto sulla sicurezza approvato lo scorso febbraio; il prezzo del diesel al distributore in Italia è tornato ai massimi da aprile; i ribelli yemeniti Houthi annunciano il blocco dello stretto di Bab el Mandeb; la nazionale italiana di Powerchair football non ha potuto partecipare a un torneo in Scozia perché la compagnia aerea EasyJet non aveva spazio per tutte le carrozzine; la “regina degli scacchi” Judit Polgár non sarà la nuova presidente dell’Ungheria</itunes:summary>
-      <itunes:author>Nicola Ghittoni</itunes:author>
-      <itunes:duration>29:51</itunes:duration>
-      <enclosure url="https://www.ilpost.it/wp-content/uploads/2026/07/21/1784613792-21lugliomorning_mixdown.mp3" length="43021954" type="audio/mpeg" />
       <itunes:image href="https://www.ilpost.it/wp-content/uploads/2021/05/evening-1.png" />
     </item>
   </channel>
